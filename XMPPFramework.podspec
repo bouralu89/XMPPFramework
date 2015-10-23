@@ -8,9 +8,9 @@ s.tvos.deployment_target = '9.0'
 
 #s.platform = { 'ios' => '5.0',  'osx' => '10.7'}
 
-s.platform = :osx, '10.7'
-s.platform = :ios, '6.0'
-s.platform = :tvos, '9.0'
+#s.platform = :osx, '10.7'
+#s.platform = :ios, '6.0'
+#s.platform = :tvos, '9.0'
 
 s.ios.frameworks = 'UIKit', 'Foundation'
 s.tvos.frameworks = 'UIKit', 'Foundation'
